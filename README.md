@@ -1,5 +1,5 @@
 # Model independent tests of Cosmology
-Repository of the codes and data files to perform model-independent tests of Cosmology using real H(z) measurements as well as Euclid and SKA simulations.
+Repository of the codes and data files I have been developing to perform model-independent tests of Cosmology using real H(z) measurements, as well as Euclid and SKA simulations.
 
 The python code 'model_ind_tests.py' carries out Gaussian Processes reconstructions with GaPP (https://github.com/astrobengaly/GaPP) in order to obtain model-independent cosmological measurements such as: 
   - Hubble Constant H0 
