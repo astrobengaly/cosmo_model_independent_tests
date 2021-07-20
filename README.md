@@ -7,7 +7,7 @@ The python code 'model_ind_tests.py' carries out Gaussian Processes reconstructi
   - null tests of the LCDM model, namely the Om and Lm tests as in [https://arxiv.org/abs/0807.3548], [https://arxiv.org/abs/0807.4304] (see also [https://arxiv.org/abs/0712.3457])
 
 Data files in this repository consist of: 
-  - Real H(z) measurements from galaxy ages, aka Cosmic Chromoneters, and radial BAO mode SDSS redshift survey
+  - Real H(z) measurements from galaxy ages, aka Cosmic Chromoneters, and from the radial BAO mode obtained by the SDSS redshift survey
   - Simulated radial BAO measurements from Euclid galaxy survey, and SKA band1 and band2 21cm Intensity Mapping. Fiducial Cosmology assumes Planck 2018 (TT, TE, EE+lowE+lensing) best-fit
 
 The code receives the number of data points and name of the survey as inputs
