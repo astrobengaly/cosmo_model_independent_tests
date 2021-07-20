@@ -17,7 +17,7 @@ The code receives the number of data points and name of the survey containing Hz
 
 Examples of the reconstructions assuming SKA band1 + band 2 and observational CC + SDSS radial BAO are also provided in this repository. 
 
-I hope this code is helpful for students and anyone interested in performing this analysis in the future. If you use it, slease refer to the following papers
+I hope this code is helpful for students and anyone interested in performing this analysis in the future. If you use it, please refer to the following papers
 
 Null tests of the concordance model in the era of Euclid and the SKA 
 Carlos A. P. Bengaly, Chris Clarkson, Martin Kunz, Roy Maartens
