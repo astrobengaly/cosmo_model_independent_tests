@@ -20,19 +20,9 @@ Plots of the reconstructions assuming SKA band1 + band2 and observational CC + S
 I hope this code is helpful for students and anyone interested in performing this analysis in the future. 
 If you use it, please cite the following papers
 
-  - Null tests of the concordance model in the era of Euclid and the SKA 
-  Carlos A. P. Bengaly, Chris Clarkson, Martin Kunz, Roy Maartens
-  https://arxiv.org/abs/2007.04879 
-  Phys. Dark. Univ. accepted
-
-  - Evidence for cosmic acceleration with next-generation surveys: A model-independent approach
-  Carlos A. P. Bengaly
-  https://arxiv.org/abs/1912.05528
-  MNRAS, Volume 499, Issue 1, November 2020, Pages L6-L10; 10.1093/mnrasl/slaa040
-
- - The Hubble constant tension with next-generation galaxy surveys
-  Carlos A. P. Bengaly, Chris Clarkson, Roy Maartens
-  https://arxiv.org/abs/1908.04619
-  JCAP05(2020)053; 10.1088/1475-7516/2020/05/053
-
+  - Null tests of the concordance model in the era of Euclid and the SKA; Phys. Dark. Univ. accepted [https://arxiv.org/abs/2007.04879]
+  - Evidence for cosmic acceleration with next-generation surveys: A model-independent approach; Mon.Not.Roy.Astron.Soc. 499 (2020) 1, L6-L10 
+[https://arxiv.org/abs/1912.05528]
+  - The Hubble constant tension with next-generation galaxy surveys; JCAP05(2020)053 [https://arxiv.org/abs/1908.04619] 
+  
 Please contact carlosbengaly@on.br or carlosap87@gmail.com for further enquiries. Suggestions are always welcome. 
